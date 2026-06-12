@@ -84,5 +84,5 @@ MIT License. See `LICENSE` for more details.
 
 ## 🙌 Credits
 
-- Developed by [Aindrik Sarkar](https://github.com/iamaindrik)
+- Developed by [Aindrik Sarkar](https://github.com/iamaindrik) / Naman Panchal
 - NLP Model powered by 🤗 HuggingFace Transformers
